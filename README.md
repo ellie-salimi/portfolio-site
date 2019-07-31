@@ -1,2 +1,2 @@
 # portfolio-site
-This is Ellie's portfolio
+This is Ellie's portfolio.
